@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "fullName": "Dennis",
+      "emailAddress": "njogu@moringaschool.com",
+      "gender": "Female",
+      "isAdmin": "true",
+      "id": 1
+    },
+    {
+      "fullName": "That Guy",
+      "emailAddress": "that_guy@gmail.com",
+      "gender": "Male",
+      "isAdmin": "Yes",
+      "id": 2
+    },
+    {
+      "fullName": "Njogu",
+      "emailAddress": "ewre@gmail.com",
+      "gender": "Female",
+      "isAdmin": "No",
+      "id": 3
+    }
+  ],
+  "phones": [
+    {
+      "brand": "Redmi",
+      "imei": "1258489",
+      "comment": "This is working",
+      "id": 1
+    },
+    {
+      "brand": "Redmi",
+      "imei": "255489848",
+      "comment": "hellow theres",
+      "id": 2
+    },
+    {
+      "brand": "Iphone",
+      "imei": "fsfwe",
+      "comment": "wefw",
+      "id": 3
+    },
+    {
+      "brand": "Infinix",
+      "imei": "324324",
+      "comment": "jsbvj ujnu",
+      "id": 4
+    }
+  ],
+  "tickets": [
+    {
+      "userId": "1",
+      "phoneId": "1",
+      "openedOn": "2022-10-20",
+      "closedOn": "",
+      "status": "1",
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "phoneId": "3",
+      "openedOn": "2022-10-11",
+      "closedOn": "",
+      "status": "Opened",
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "phoneId": "2",
+      "openedOn": "2022-09-28",
+      "closedOn": "2022-10-07",
+      "status": "Closed",
+      "id": 3
+    },
+    {
+      "userId": "3",
+      "phoneId": "4",
+      "openedOn": "2022-10-04",
+      "closedOn": "2022-10-11",
+      "status": "Closed",
+      "id": 4
+    }
+  ]
+}
